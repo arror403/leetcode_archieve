@@ -14,6 +14,8 @@ For newer submissions, please check [HERE](https://github.com/arror403/leetcode_
 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/solutions/7804197/regular-expression-approach-by-arror404-9m7j/) | Mid Level, String | O(N) | How I use regex |
 | [Count Nice Pairs in an Array](https://github.com/arror403/leetcode_archieve/blob/main/1501-2000/1925-count-nice-pairs-in-an-array/2023-11-21%2015.46.01%20-%20Accepted%20-%20runtime%20541ms%20-%20memory%2026.9MB.py) | Math | O(N) | Interesting one |
 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/solutions/8416112/awk-with-regex-solution-by-arror404-uuki/) | Bash, RegEx | O(N) | regular expression
+|[Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/solutions/8446333/regex-approach-by-arror404-6ocj/) | pandas, RegEx | O(mn) | 
+
 
 ## Repository Structure
 
