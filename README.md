@@ -1,10 +1,10 @@
 ## Summary 
 
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_1.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-08-09_Progress%20-%20LeetCode.png)
 
-- Rank: 4656
+- Rank: 4620
 
-*Last update: 2026/7/29*
+*Last update: 2026/8/9*
 
 For newer submissions, please check [HERE](https://github.com/arror403/leetcode_auto_sync_repo). This repo is used for auto sync my submissions.
 
