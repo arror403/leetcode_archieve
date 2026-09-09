@@ -1,10 +1,10 @@
 ## Summary 
 
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-08-09_Progress%20-%20LeetCode.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-09-09%20at%2013-27-35%20Progress%20-%20LeetCode.png)
 
-- Rank: 4620
+- Rank: 4548
 
-*Last update: 2026/8/9*
+*Last update: 2026/9/9*
 
 For newer submissions, please check [HERE](https://github.com/arror403/leetcode_auto_sync_repo). This repo is used for auto sync my submissions.
 
@@ -47,14 +47,16 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
 
 ### Current (2026)
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_4.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-09-09%20at%2013-29-44%20arror404%20-%20LeetCode%20Profile.png)
+
+### Languages
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-09-09%20at%2013-29-12%20arror404%20-%20LeetCode%20Profile.png)
+
+### Skills
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-09-09%20at%2013-28-31%20arror404%20-%20LeetCode%20Profile.png)
 
 ### Category
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_5.png)
-
-### Languages and Skills
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-07-29.png)
-
 
 ## Badge
 
